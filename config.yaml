@@ -1,0 +1,7 @@
+dev: /dev/ttyUSB1
+speed: 115200
+stop: 1
+parity: none
+
+slave_id: 3
+mode: RTU
